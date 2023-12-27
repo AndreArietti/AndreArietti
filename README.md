@@ -2,7 +2,7 @@
 
 [![ Linkedin ](https://img.shields.io/website?label=https://www.linkedin.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://www.linkedin.com/in/andre-shervensquy/)
 
-[![ Projeto ](https://img.shields.io/endpoint)](https://www.feliansuporte.com.br/)
+[![ Projeto Felian ](https://img.shields.io/website?label=https://www.linkedin.com&style=for-the-badge&url=https://sujeitoprogramador.com/)](https://www.feliansuporte.com.br)
 
 
 [![ Instagram ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andre.arietti/)
